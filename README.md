@@ -22,7 +22,7 @@ Notebooks run in order; each one writes files the next one reads.
  
 Raw and processed AnswerALS RNA-seq data are not included in this repository.
 Access requires a Data Use Agreement with the AnswerALS consortium. See
-[answerals.org](https://www.answerals.org). 
+https://dataportal.answerals.org.
  
 External reference/annotation files that are not subject to any data agreement
 (ChEMBL compound counts, HPA/Open Targets CNS expression, Broad's compound

@@ -18,7 +18,7 @@ Notebooks run in order; each one writes files the next one reads.
 | [`03_phenotypic_rescue.ipynb`](scripts/03_phenotypic_rescue.ipynb) | Loads CLUE reversal results, ranks compounds, annotates targets via ChEMBL |
 | [`04_ml_script.ipynb`](scripts/04_ml_script.ipynb) | Builds the feature matrix, trains the five models, produces the cross-model consensus target list |
  
-## Data availability
+## Data Availability
  
 Raw and processed AnswerALS RNA-seq data are not included in this repository.
 Access requires a Data Use Agreement with the AnswerALS consortium. See

@@ -23,10 +23,20 @@ Notebooks run in order; each one writes files the next one reads.
 Raw and processed AnswerALS RNA-seq data are not included in this repository.
 Access requires a Data Use Agreement with the AnswerALS consortium. See
 https://dataportal.answerals.org.
+
+CLUE's files and outputs require registration. `compoundinfo_beta.txt` is available at [CLUE data dashboard](https://clue.io/releases/data-dashboard).
  
-External reference/annotation files that are not subject to any data agreement
-(ChEMBL compound counts, HPA/Open Targets CNS expression, Broad's compound
-metadata) are in `external_annotations/`.
+`chembl_n_compounds_cache.csv` and `hpa_ot_cns_cache.csv` are in
+`external_annotations/`, included here under their respective attribution licenses.
+
+## Data Sources
+ 
+- AnswerALS ([answerals.org](https://www.answerals.org))
+- CLUE / LINCS L1000 ([clue.io](https://clue.io))
+- ChEMBL 37 (CC BY-SA 3.0, [ebi.ac.uk/chembl](https://www.ebi.ac.uk/chembl))
+- Human Protein Atlas (CC BY 4.0, [proteinatlas.org](https://www.proteinatlas.org))
+- Open Targets Platform (CC0 1.0, [targets.opentargets.org](https://targets.opentargets.org))
+- STRING (CC BY 4.0, [string-db.org](https://string-db.org))
  
 ## Environment
  

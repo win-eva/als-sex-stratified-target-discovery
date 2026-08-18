@@ -11,7 +11,7 @@ MRes Drug Design, UCL.
  
 Notebooks run in order; each one writes files the next one reads.
  
-| Notebook | What it does |
+| Notebook | Purpose |
 |---|---|
 | [`01_data_analysis.ipynb`](scripts/01_data_analysis.ipynb) | Annotates the raw AnswerALS count matrix with gene symbol/biotype, checks donor and sample structure |
 | [`02_preprocessing.ipynb`](scripts/02_preprocessing.ipynb) | Collapses to one sample per donor, classifies donor sex from expression, runs PyDESeq2, builds the CLUE query signature |

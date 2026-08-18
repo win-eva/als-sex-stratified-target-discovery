@@ -1,4 +1,4 @@
-# Machine-Learning Prediction of Phenotypic Rescue Targets in ALS
+# Machine-Learning Prediction of Phenotypic Rescue Targets in Amyotrophic Lateral Sclerosis
  
 Computational pipeline for sex-stratified ALS drug target discovery, combining
 AnswerALS RNA-seq differential expression, CLUE L1000 transcriptomic reversal,

@@ -15,7 +15,7 @@ Notebooks run in order; each one writes files the next one reads.
 |---|---|
 | [`01_data_analysis.ipynb`](scripts/01_data_analysis.ipynb) | Annotates the raw AnswerALS count matrix with gene symbol/biotype, checks donor and sample structure |
 | [`02_preprocessing.ipynb`](scripts/02_preprocessing.ipynb) | Collapses to one sample per donor, classifies donor sex from expression, runs PyDESeq2, builds the CLUE query signature |
-| [`03_phenotypic_rescue.ipynb.ipynb`](scripts/03_phenotypic_rescue.ipynb) | Loads CLUE reversal results, ranks compounds, annotates targets via ChEMBL |
+| [`03_phenotypic_rescue.ipynb`](scripts/03_phenotypic_rescue.ipynb) | Loads CLUE reversal results, ranks compounds, annotates targets via ChEMBL |
 | [`04_ml_script.ipynb`](scripts/04_ml_script.ipynb) | Builds the feature matrix, trains the five models, produces the cross-model consensus target list |
  
 ## Data availability

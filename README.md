@@ -26,7 +26,7 @@ https://dataportal.answerals.org.
  
 External reference/annotation files that are not subject to any data agreement
 (ChEMBL compound counts, HPA/Open Targets CNS expression, Broad's compound
-metadata) are in `reference_data/`.
+metadata) are in `external_annotations/`.
  
 ## Environment
  
